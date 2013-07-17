@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ACF { Button Field
 
 Adds a 'Button' field type for the [Advanced Custom Fields](http://wordpress.org/extend/plugins/advanced-custom-fields/) WordPress plugin.
@@ -37,3 +38,9 @@ include_once('acf-button/acf-button.php');
 ### More Information
 
 Please read the readme.txt file for more information
+=======
+acf-button-field
+================
+
+Adds a 'Button' field type for the WordPress plugin.
+>>>>>>> 10abc9aa5eb1cd81008645522a13b83435a9061c
