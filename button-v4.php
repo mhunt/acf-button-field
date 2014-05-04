@@ -90,7 +90,7 @@ class acf_field_button extends acf_field
 
 		?>
 
-		<table class="acf-button">
+		<table class="acf-button-field">
 			<tr>
 				<td valign="top">
 					<label>Text</label>
